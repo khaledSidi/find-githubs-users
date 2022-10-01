@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/find-githubs-users/static/css/main.6f9a6608.chunk.css",
+    "main.js": "/find-githubs-users/static/js/main.b1a5f7a9.chunk.js",
+    "main.js.map": "/find-githubs-users/static/js/main.b1a5f7a9.chunk.js.map",
+    "runtime-main.js": "/find-githubs-users/static/js/runtime-main.317cb9c9.js",
+    "runtime-main.js.map": "/find-githubs-users/static/js/runtime-main.317cb9c9.js.map",
+    "static/js/2.db64e973.chunk.js": "/find-githubs-users/static/js/2.db64e973.chunk.js",
+    "static/js/2.db64e973.chunk.js.map": "/find-githubs-users/static/js/2.db64e973.chunk.js.map",
+    "index.html": "/find-githubs-users/index.html",
+    "precache-manifest.306754a1580c0e36d1cf991663c48a90.js": "/find-githubs-users/precache-manifest.306754a1580c0e36d1cf991663c48a90.js",
+    "service-worker.js": "/find-githubs-users/service-worker.js",
+    "static/css/main.6f9a6608.chunk.css.map": "/find-githubs-users/static/css/main.6f9a6608.chunk.css.map",
+    "static/js/2.db64e973.chunk.js.LICENSE.txt": "/find-githubs-users/static/js/2.db64e973.chunk.js.LICENSE.txt",
+    "static/media/login-img.svg": "/find-githubs-users/static/media/login-img.20a90984.svg",
+    "static/media/preloader.gif": "/find-githubs-users/static/media/preloader.c114fda3.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.317cb9c9.js",
+    "static/js/2.db64e973.chunk.js",
+    "static/css/main.6f9a6608.chunk.css",
+    "static/js/main.b1a5f7a9.chunk.js"
+  ]
+}
